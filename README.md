@@ -2,7 +2,7 @@
 
 A collection of Python projects focused on data analysis, automation, reporting, and document processing.
 
-# Skills Demonstrated
+## Skills Demonstrated
 
 - Python
 - Data Analysis
