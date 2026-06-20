@@ -1,0 +1,21 @@
+Dilara Sultanova
+
+Computer Science Student
+
+Skills:
+Python
+SQL
+Git
+Data Analysis
+Problem Solving
+Communication
+
+Projects:
+AI Resume Analyzer
+AI Document Processing Pipeline
+
+Experience:
+Python Programming
+Data Processing
+Reporting
+Automation
