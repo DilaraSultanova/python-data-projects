@@ -1,1 +1,8 @@
-[]
+[
+    {
+        "title": "Python Developer",
+        "company": "Example Company",
+        "location": "Remote",
+        "url": "https://example.com/job"
+    }
+]
