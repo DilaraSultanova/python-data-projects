@@ -4,7 +4,7 @@ Collection of Python projects focused on automation, data analysis, and reportin
 
 ## Goal
 
-Use Python to automate tasks, analyze data, and build solutions that improve efficiency and decision-making.
+Use Python to automate tasks, analyze data, and improve reporting processes.
 
 ## Skills
 
