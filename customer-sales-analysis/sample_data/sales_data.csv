@@ -1,0 +1,11 @@
+OrderID,CustomerID,Product,Category,Quantity,Price,Revenue
+1001,C001,Laptop,Electronics,1,1200,1200
+1002,C002,Monitor,Electronics,2,250,500
+1003,C003,Keyboard,Accessories,3,50,150
+1004,C001,Mouse,Accessories,2,30,60
+1005,C004,Printer,Office,1,300,300
+1006,C005,Desk,Office,1,450,450
+1007,C006,Chair,Office,2,200,400
+1008,C002,Tablet,Electronics,1,600,600
+1009,C007,Headphones,Accessories,2,120,240
+1010,C008,Webcam,Accessories,1,90,90
