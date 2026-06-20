@@ -1,19 +1,16 @@
+import requests
 import json
 
-jobs = [
-    {
-        "title": "Software Engineering Intern",
-        "company": "Tech Company",
-        "location": "Remote"
-    },
-    {
-        "title": "Python Developer",
-        "company": "Startup Inc",
-        "location": "New York"
-    }
-]
+url = "https://jobs.github.com/positions.json?description=python"
 
-with open("jobs.json", "w") as file:
-    json.dump(jobs, file, indent=4)
+try:
+    response = requests.get(url)
+    jobs = response.json()
 
-print("Jobs saved successfully")
+    with open("jobs.json", "w") as file:
+        json.dump(jobs, file, indent=4)
+
+    print(f"Saved {len(jobs)} jobs to jobs.json")
+
+except Exception as e:
+    print("Error:", e)
