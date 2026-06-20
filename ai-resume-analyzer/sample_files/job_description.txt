@@ -1,0 +1,17 @@
+Software Engineering Intern
+
+Requirements:
+Python
+SQL
+Git
+Machine Learning
+Data Structures
+Algorithms
+Problem Solving
+Communication
+
+Responsibilities:
+Develop software solutions
+Analyze data
+Write clean code
+Collaborate with engineering teams
