@@ -1,45 +1,40 @@
 # Python Data Projects
 
-Collection of Python projects focused on automation, data analysis, and reporting.
+A collection of Python projects focused on data analysis, automation, reporting, and document processing.
 
-## Goal
-
-Use Python to automate tasks, analyze data, and improve reporting processes.
-
-## Skills
+## Skills Demonstrated
 
 - Python
 - Data Analysis
+- Data Cleaning
 - Automation
 - Reporting
-- Data Cleaning
 - OCR Processing
-
-## Portfolio Projects
-
-### Survey Automation
-Automate survey processing using OCR and AI-powered document extraction.
-
-### Data Cleaning
-Clean and organize datasets for analysis and reporting.
-
-### Automated Reporting
-Generate reports and summaries from processed data.
-
-### Data Visualization
-Create charts and visualizations to communicate insights.
-
-## Tools
-
-- Python
-- Pandas
 - Excel
 - Google Document AI
 - Azure AI Document Intelligence
 
+## Featured Projects
+
+### Survey Automation Project
+Built an automated workflow to process survey forms using Python, Google Document AI, and Azure AI Document Intelligence.
+
+**Key Features**
+- Extracted data from survey documents using OCR
+- Automated data organization and validation
+- Reduced manual data entry
+- Generated structured reports for analysis
+
+**Tools Used**
+- Python
+- Google Document AI
+- Azure AI Document Intelligence
+- Excel
+
 ## Future Projects
 
-- Workforce Analytics
+- Data Cleaning and Transformation
+- Automated Reporting Dashboard
 - Customer Data Analysis
-- Automated Dashboard Reports
-- Business Performance Analysis
+- Workforce Development Analytics
+- Excel Automation Tools
