@@ -1,0 +1,25 @@
+Customer Sales Analysis Results
+
+Total Revenue: $3990
+
+Revenue by Category
+-------------------
+Electronics: $2300
+Office: $1150
+Accessories: $540
+
+Top Products by Revenue
+-----------------------
+Laptop: $1200
+Tablet: $600
+Monitor: $500
+Desk: $450
+Chair: $400
+
+Key Findings
+------------
+1. Electronics generated the highest revenue.
+2. Laptop sales produced the most revenue.
+3. Office products were the second strongest category.
+4. Accessories generated the lowest revenue.
+5. Revenue opportunities exist in expanding high-performing product categories.
