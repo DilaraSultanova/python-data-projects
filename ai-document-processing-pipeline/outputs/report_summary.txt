@@ -1,0 +1,7 @@
+AI Document Processing Pipeline Summary
+
+Total Documents Processed: 4
+Completed Documents: 3
+Documents Requiring Review: 1
+
+Report generated from processed survey data.
