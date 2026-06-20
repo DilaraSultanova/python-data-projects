@@ -23,7 +23,6 @@ for symbol in stocks:
         }
 
         stock_data.append(info)
-
         print(f"Loaded {symbol}")
 
     except Exception as e:
